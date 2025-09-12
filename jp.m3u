@@ -149,5 +149,5 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://ca01.utako.moe/v_paradise/index.m3u8
-
-
+#EXTINF:-1 group-title="CS" tvg-id="Discovery" tvg-logo="https://www.lyngsat.com/tvchannels/us/Discovery-Channel-Japan.html",Discovery Channel
+https://ca01.utako.moe/discovery/index.m3u8
