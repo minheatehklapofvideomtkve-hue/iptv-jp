@@ -39,10 +39,13 @@ https://mt01.utako.moe/tvo/index.m3u8
 https://mt01.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
 https://mt01.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikimedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
 https://mt01.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 https://mt01.utako.moe/suntv/index.m3u8
+
+#EXTINF:-1 group-title="Hiroshima tvg-id=rcc",RCC(test)
+https://mt01.utako.moe/rcc/index.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 https://mt01.utako.moe/NHK_BS/index.m3u8
@@ -92,6 +95,8 @@ https://ca01.utako.moe/nihoneiga/index.m3u8
 https://ca01.utako.moe/skya/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png",JCOM BS
 https://mt01.utako.moe/jcom_bs/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_plus" tvg-logo"https://www.lyngsat.com/.com/logo/tv/ww/wowow_plus.png" WOWOW PLUS
+https://mt01.utako.moe/wowow_plus/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
@@ -149,5 +154,6 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://ca01.utako.moe/v_paradise/index.m3u8
+
 
 
