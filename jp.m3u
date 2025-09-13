@@ -6,9 +6,8 @@ https://mt01.utako.moe/test/intro.mp4/index.m3u8
 https://mt01.utako.moe/test/intro.mp4/index.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", Please refrain from re-sharing those URLs! Read github for details.
 https://mt01.utako.moe/test/intro.mp4/index.m3u8
-#EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
-https://mt01.utako.moe/test/intro.mp4/index.m3u8
-
+#EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubの
+https://www.youtube.com/live/Qz_UJ2Pmkbs?si=MELmFXT7LKuYKQ6d
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
@@ -146,6 +145,7 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://ca01.utako.moe/v_paradise/index.m3u8
+
 
 
 
