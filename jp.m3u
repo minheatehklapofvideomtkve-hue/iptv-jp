@@ -146,6 +146,7 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://ca01.utako.moe/v_paradise/index.m3u8
-
+#EXTINF:-1 group-title="CS" tvg-id="yose_channel" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yose_channel.png",Tabi Channel
+https://youtu.be/zYyjo09FeIw?si=PFZgHgq02SD5rjyM
 
 
